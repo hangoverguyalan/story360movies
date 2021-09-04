@@ -1,0 +1,129 @@
+
+.row.margin_bt20.bw_img_crew {
+    display: none;
+}
+
+
+h1.bw_h1title_single {
+    border: 2px solid;
+    padding: 15px 15px;
+    border-bottom: 6px solid;
+    border-color: #ccc;
+}
+
+.bw_desc {
+    border: 2px solid;
+    padding: 15px 15px;
+    border-top: 6px solid;
+    border-color: #ccc;
+}
+
+.navbar-default {
+    background-color: #fff;
+    background-image: none;
+    background-repeat: initial;
+    border-top: 3px solid;
+    border-bottom: 3px solid;
+    border-radius: 0;
+    box-shadow: 0px 1px 3px rgba(190, 190, 190, 0.30);
+}
+
+
+.bw_footer {
+    background-color: #000000;
+    color: #fff;
+    float: left;
+    font-size: 10px;
+    font-weight: normal;
+    letter-spacing: 1.8px;
+    line-height: 20px;
+    padding: 15px 5px;
+    text-transform: uppercase;
+    width: 100%;
+    text-align: center;
+}
+
+.container-all .container-fluid .row .col-md-2 .hentry .bw_thumb_title .bw_thumb a img {
+    width: 164px !important;
+}
+
+.bw_thumb img {
+    border-radius: 4px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,.2), 0 6px 20px 0 grey;
+    border: solid 3px #000;
+    transition: .3s;
+}
+
+.bw_date {
+    display: none;
+}
+
+.h1title {
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 21px;
+    margin-top: 10px;
+}
+
+h2.widgettitle {
+    border: 1px solid #ccc;
+    font-size: 11px;
+    font-weight: 700;
+    margin-bottom: 30px;
+    margin-top: 0px;
+    padding: 7px 0px;
+    text-align: center;
+    text-transform: uppercase;
+    background: #000;
+    color: #fff;
+}
+
+.col-md-4.col-sm-12.col-xs-12.bw_right {
+    margin-top: 30px;
+}
+
+input#p {
+    width: 75%;
+    box-sizing: border-box;
+    border: 2px solid #080808;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-image: url(https://3.bp.blogspot.com/-f735tJVtZvU/W5D0V3b69cI/AAAAAAAAAwc/wm8KLtW53IwxEK1B-gfhukTznPyOmI6WQCLcBGAs/s1600/searchicon-1.png);
+    background-position: 10px 14px;
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+    outline-width: 0px;
+}
+
+button.button.button5 {
+    background: #000;
+    color: #ccc;
+}
+
+div#home-button {
+    margin-top: 35px;
+}
+
+.bw_pagination {
+    margin-top: 400px;
+}
+
+.navbar-nav>li>a {
+    color: #000!important;
+    font-weight: 700;
+    padding-left: 8px;
+    padding-right: 8px
+}
+.navbar-brand,.navbar-nav>li>a {
+    text-shadow: none
+}
+
+@media(max-width: 800px) {
+    .navbar-header {
+        float:none
+    }
+
+
